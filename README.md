@@ -5,7 +5,7 @@
 </h1>
 
 <!-- Subtítulo -->
-<h3 align="center">🚀 Estudiante de Ingeniería en Sistemas | Co-Fundadora de Artemis Devs 🌟</h3>
+<h3 align="center">🚀 Estudiante | Co-Fundadora de Artemis Devs 🌟</h3>
 
 <!-- Breve descripción -->
 <p align="center">
